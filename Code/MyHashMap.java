@@ -16,7 +16,7 @@ class HashMapFun {
         myHashMap.put("21", "Kiwi");
         myHashMap.put("01", "Apple");
         myHashMap.put("10", "Banana");
-        myHashMap.put("12", "Pear");
+        myHashMap.put("11", "Pear");
 
         // Print all alements of the HashMap
         // HashMap key value pairs are not indexed, and they are not ordered
